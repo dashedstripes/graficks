@@ -1,1 +1,3 @@
 # graficks
+
+learning opengl+glfw
